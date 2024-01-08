@@ -1,3 +1,8 @@
+> [!NOTE]
+> Fixes stale rails dependency constraint in upstream.
+> 
+> See: https://github.com/Leafly-com/rescue-unique-constraint/commit/82ffda747f64370bf26ec6cffffdf7380708c97d
+
 # RescueUniqueConstraint
 
 ActiveRecord doesn't do a great job of rescuing ActiveRecord::RecordNotUnique
